@@ -1,4 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
-SiteMap: https://australia.doctorprem.com//siteMap.xml   
+Sitemap: https://www.africa.doctorprem.com//sitemap.xml   
